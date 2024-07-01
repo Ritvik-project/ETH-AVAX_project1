@@ -41,14 +41,14 @@ To compile the code, click on the "Solidity Compiler" tab in the left-hand sideb
 
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "Project1" contract from the dropdown menu, and then click on the "Deploy" button.
 
-Once the contract is deployed, you can interact with it by calling the sayHello function. Click on the "HelloWorld" contract in the left-hand sidebar, and then click on the "sayHello" function. Finally, click on the "transact" button to execute the function and retrieve the "Hello World!" message.
+Once the contract is deployed, you can interact with it by calling any of the _revet, _assert or _require function. Enter the age in the given area and then call the function. If you are entering the age less than 18 than the function execution will throw an error and if you are entering the age greater than or equal to 18 than the function will return "eligible".
 
 ## Authors
 
-Metacrafter Chris  
-[@metacraftersio](https://twitter.com/metacraftersio)
+Ritvik Jindal  
+[linkedin](www.linkedin.com/in/ritvik-jindal05)
 
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License
